@@ -39,7 +39,8 @@ public class main {
 		CurrencyRate.ParseRateBySymbol();
 		System.out.println(CurrencyRate.cities.size() + " cities");
 		CurrencyRate.setPosition();
-		startCurrencyRateThreads(3);
+		startCurrencyRateThreads(2);
+		CurrencyRate.summary();
 		// UberRequest.write();
 
 	}

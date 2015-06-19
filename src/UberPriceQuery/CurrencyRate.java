@@ -22,7 +22,7 @@ public class CurrencyRate extends Thread {
 	public static Map<String, String> cityVScountry = new HashMap<String, String>();
 	public static Map<String, String> countryVSsymbol = new HashMap<String, String>();
 	public static Map<String, Float> symbolVSrate = new HashMap<String, Float>();
-	public static Map<String, String> cityVSrate=new HashMap<String, String>();
+	public static Map<String, String> cityVSrate = new HashMap<String, String>();
 	private static String wikiBase = "https://en.wikipedia.org";
 	public static int currentPosition;
 
@@ -206,10 +206,10 @@ public class CurrencyRate extends Thread {
 					cityVScountry.put(cityName, "");
 				} else {
 					File writename = new File("WikiLinks.txt");
-					
+
 					cities.addElement(cityName);
 					wikiLinks.addElement(wikiLink);
-					
+
 					if (!writename.exists()) {
 						try {
 							writename.createNewFile();
@@ -238,51 +238,71 @@ public class CurrencyRate extends Thread {
 		}
 		return cityName;
 	}
-//
-//	public static String byGoogle(String cityName) {
-//		String googleBase = "https://www.google.com/search?q=";
-//		Connection con = Jsoup.connect(googleBase + cityName);// 获取连接
-//		con.header("User-Agent",
-//				"Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0");// 配置模拟浏览器
-//		Response rs;
-//		try {
-//			rs = con.execute();
-//			if (rs.statusCode() == 200) {
-//
-//				Document domTree = Jsoup.parse(rs.body());// 转换为Dom树
-//				Elements SearchResults = domTree.getElementsByClass("r");
-//				// System.out.println(city);
-//				String wikiLink = "";
-//				for (Element result : SearchResults) {
-//					if (result.text().contains("Wikipedia")) {
-//						// System.out.println(result.child(0).attr("href"));
-//						wikiLink = result.child(0).attr("href");
-//						break;
-//					}
-//				}
-//
-//				if (wikiLink.length() == 0) {
-//					System.out.println(cityName);
-//				} else {
-//
-//					System.out.println(wikiLink);
-//				}
-//			}
-//		} catch (IOException e) {
-//			// TODO Auto-generated catch block
-//			System.out.println(cityName);
-//			e.printStackTrace();
-//		}
-//		return cityName;
-//	}
 
-	
-	public static void summary() {
+	//
+	// public static String byGoogle(String cityName) {
+	// String googleBase = "https://www.google.com/search?q=";
+	// Connection con = Jsoup.connect(googleBase + cityName);// 获取连接
+	// con.header("User-Agent",
+	// "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0");//
+	// 配置模拟浏览器
+	// Response rs;
+	// try {
+	// rs = con.execute();
+	// if (rs.statusCode() == 200) {
+	//
+	// Document domTree = Jsoup.parse(rs.body());// 转换为Dom树
+	// Elements SearchResults = domTree.getElementsByClass("r");
+	// // System.out.println(city);
+	// String wikiLink = "";
+	// for (Element result : SearchResults) {
+	// if (result.text().contains("Wikipedia")) {
+	// // System.out.println(result.child(0).attr("href"));
+	// wikiLink = result.child(0).attr("href");
+	// break;
+	// }
+	// }
+	//
+	// if (wikiLink.length() == 0) {
+	// System.out.println(cityName);
+	// } else {
+	//
+	// System.out.println(wikiLink);
+	// }
+	// }
+	// } catch (IOException e) {
+	// // TODO Auto-generated catch block
+	// System.out.println(cityName);
+	// e.printStackTrace();
+	// }
+	// return cityName;
+	// }
+
+	public static void summary() throws IOException {
 		File writename = new File("Rates.txt");
+		BufferedWriter out = new BufferedWriter(new FileWriter(writename));
+		String cityName;
+		String countryName;
+		String symbol;
 		for (Entry<String, String> city : cityVScountry.entrySet()) {
-			String cityName=city.getKey();
-			String countryName=city.getValue();
-			
+			cityName = city.getKey();
+			out.write(cityName + "|");
+			countryName = city.getValue();
+			if (countryName.equals("")) {
+
+				out.write("NULL" + "\r\n");
+			} else {
+				if (countryVSsymbol.containsKey(countryName)) {
+					symbol = countryVSsymbol.get(countryName);
+					if (symbolVSrate.containsKey(symbol)) {
+						out.write(symbolVSrate.get(symbol).toString() + "\r\n");
+					} else {
+						out.write(symbol + "NULL" + "\r\n");
+					}
+				} else {
+					out.write(countryName + "NULL" + "\r\n");
+				}
+			}
 		}
 	}
 }
