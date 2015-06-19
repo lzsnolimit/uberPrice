@@ -1,0 +1,601 @@
+{Type:"UberPeople's",PriceByMinute:"￥0.20",PriceByDistance:"￥1.50",BaseFare:"$0",City:"Wuhan",Cancellation fee:"￥8",Min fare:"￥8",DistanceUnit:"kilometer"}
+{Type:"uberX 优选",PriceByMinute:"￥0.30",PriceByDistance:"￥2.40",BaseFare:"￥10",City:"Wuhan",Cancellation fee:"￥8",Min fare:"￥15",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.50",PriceByDistance:"$1.85",BaseFare:"$1.50",City:"Wellington",Cancellation fee:"$5",Min fare:"$5",DistanceUnit:"kilometer"}
+{Type:"uberX优选",PriceByMinute:"￥0.35",PriceByDistance:"￥1.75",BaseFare:"￥8",City:"Tianjin",Cancellation fee:"￥12",Min fare:"￥12",DistanceUnit:"kilometer"}
+{Type:"UberPeople's",PriceByMinute:"￥0.20",PriceByDistance:"￥1.50",BaseFare:"$0",City:"Tianjin",Cancellation fee:"￥8",Min fare:"￥8",DistanceUnit:"kilometer"}
+{Type:"UberBlack",PriceByMinute:"￥67",PriceByDistance:"￥308",BaseFare:"￥103",City:"Tokyo",Cancellation fee:"￥1,029",Min fare:"￥823",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"NT$2.50",PriceByDistance:"NT$12.50",BaseFare:"NT$40",City:"Taipei",Cancellation fee:"NT$40",Min fare:"NT$60",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"NT$5",PriceByDistance:"NT$20",BaseFare:"NT$105",City:"Taipei",Cancellation fee:"NT$100",Min fare:"NT$150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$1.45",BaseFare:"$2.50",City:"Sydney",Cancellation fee:"$10",Min fare:"$8",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$1",PriceByDistance:"$2.90",BaseFare:"$10",City:"Sydney",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"$1",PriceByDistance:"$4.50",BaseFare:"$20",City:"Sydney",Cancellation fee:"$10",Min fare:"$30",DistanceUnit:"kilometer"}
+{Type:"UberLUX",PriceByMinute:"$1",PriceByDistance:"$4.50",BaseFare:"$20",City:"Sydney",Cancellation fee:"$10",Min fare:"$30",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$0.50",BaseFare:"$3.50",City:"Singapore",Cancellation fee:"$6",Min fare:"$5",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$0.80",BaseFare:"$5",City:"Singapore",Cancellation fee:"$6",Min fare:"$8",DistanceUnit:"kilometer"}
+{Type:"UberExec",PriceByMinute:"$0.45",PriceByDistance:"$1.95",BaseFare:"$7",City:"Singapore",Cancellation fee:"$10",Min fare:"$12",DistanceUnit:"kilometer"}
+{Type:"ExecLarge",PriceByMinute:"$0.60",PriceByDistance:"$3.25",BaseFare:"$10",City:"Singapore",Cancellation fee:"$10",Min fare:"$18",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"￥0.25",PriceByDistance:"￥1.60",BaseFare:"￥8",City:"Shenzhen",Cancellation fee:"￥10",Min fare:"￥20",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"￥0.85",PriceByDistance:"￥2.73",BaseFare:"￥17",City:"Shenzhen",Cancellation fee:"￥10",Min fare:"￥24",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"￥0.37",PriceByDistance:"￥2.86",BaseFare:"￥15",City:"Shanghai",Cancellation fee:"￥20",Min fare:"￥20",DistanceUnit:"kilometer"}
+{Type:"UberXL",PriceByMinute:"￥0.80",PriceByDistance:"￥4.12",BaseFare:"￥20",City:"Shanghai",Cancellation fee:"￥20",Min fare:"￥30",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"￥0.80",PriceByDistance:"￥4.12",BaseFare:"￥20",City:"Shanghai",Cancellation fee:"￥20",Min fare:"￥30",DistanceUnit:"kilometer"}
+{Type:"UberENGLISH",PriceByMinute:"￥0.80",PriceByDistance:"￥4.12",BaseFare:"￥20",City:"Shanghai",Cancellation fee:"￥20",Min fare:"￥30",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"Below 18 km/h",PriceByDistance:"Above 18 km/h",BaseFare:"￦5,000",City:"Seoul",Cancellation fee:"￦10,000",Min fare:"￦5,000",DistanceUnit:"kilometer"}
+{Type:"人民优步",PriceByMinute:"￥0.25",PriceByDistance:"￥1.60",BaseFare:"$0",City:"Qingdao",Cancellation fee:"￥8",Min fare:"￥8",DistanceUnit:"kilometer"}
+{Type:"高级轿车",PriceByMinute:"￥0.70",PriceByDistance:"￥3.60",BaseFare:"￥15",City:"Qingdao",Cancellation fee:"￥8",Min fare:"￥23",DistanceUnit:"kilometer"}
+{Type:"uberGO",PriceByMinute:"₹ 1",PriceByDistance:"₹ 8",BaseFare:"₹ 35",City:"Pune",Cancellation fee:"₹ 60",Min fare:"₹ 50",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 9",BaseFare:"₹ 35",City:"Pune",Cancellation fee:"₹ 90",Min fare:"₹ 50",DistanceUnit:"kilometer"}
+{Type:"uberSUV",PriceByMinute:"₹ 2",PriceByDistance:"₹ 15",BaseFare:"₹ 105",City:"Pune",Cancellation fee:"₹ 150",Min fare:"₹ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.35",PriceByDistance:"$1.10",BaseFare:"$2.25",City:"Perth",Cancellation fee:"$8",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$0.68",PriceByDistance:"$2.04",BaseFare:"$10",City:"Perth",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"kilometer"}
+{Type:"UBER",PriceByMinute:"RM0.35",PriceByDistance:"RM0.70",BaseFare:"RM2",City:"Penang",Cancellation fee:"RM5",Min fare:"RM3.50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 9",BaseFare:"₹ 55",City:"New Delhi",Cancellation fee:"₹ 100",Min fare:"₹ 80",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"₹ 1.50",PriceByDistance:"₹ 12",BaseFare:"₹ 85",City:"New Delhi",Cancellation fee:"₹ 150",Min fare:"₹ 125",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 10",BaseFare:"₹ 70",City:"Mumbai",Cancellation fee:"₹ 100",Min fare:"₹ 100",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"₹ 1.50",PriceByDistance:"₹ 13",BaseFare:"₹ 100",City:"Mumbai",Cancellation fee:"₹ 150",Min fare:"₹ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.35",PriceByDistance:"$1.10",BaseFare:"$2",City:"Mornington Peninsula",Cancellation fee:"$10",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"PHP 2",PriceByDistance:"PHP 5.70",BaseFare:"PHP 40",City:"Manila",Cancellation fee:"PHP 100",Min fare:"PHP 40",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"PHP 2.10",PriceByDistance:"PHP 12.92",BaseFare:"PHP 90",City:"Manila",Cancellation fee:"PHP 100",Min fare:"PHP 120",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.35",PriceByDistance:"$1.10",BaseFare:"$2",City:"Melbourne",Cancellation fee:"$10",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$0.80",PriceByDistance:"$2.40",BaseFare:"$10",City:"Melbourne",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 9",BaseFare:"₹ 40",City:"Kolkata",Cancellation fee:"₹ 80",Min fare:"₹ 80",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"RM0.35",PriceByDistance:"RM0.70",BaseFare:"RM2",City:"Kuala Lumpur",Cancellation fee:"RM5",Min fare:"RM2",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"RM0.50",PriceByDistance:"RM1.40",BaseFare:"RM3",City:"Kuala Lumpur",Cancellation fee:"RM5",Min fare:"RM5",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 7",BaseFare:"₹ 35",City:"Kochi",Cancellation fee:"₹ 50",Min fare:"₹ 50",DistanceUnit:"kilometer"}
+{Type:"UBER",PriceByMinute:"RM0.20",PriceByDistance:"RM0.60",BaseFare:"RM1.50",City:"Johor Bahru",Cancellation fee:"RM5",Min fare:"RM2.50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"Rp300",PriceByDistance:"Rp2.001",BaseFare:"Rp3.000",City:"Jakarta",Cancellation fee:"Rp30.000",Min fare:"Rp3.000",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"Rp500",PriceByDistance:"Rp2.850",BaseFare:"Rp7.000",City:"Jakarta",Cancellation fee:"Rp30.000",Min fare:"Rp7.000",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 8",BaseFare:"₹ 25",City:"Jaipur",Cancellation fee:"₹ 80",Min fare:"₹ 40",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"HK$1.50",PriceByDistance:"HK$6",BaseFare:"HK$25",City:"Hong Kong",Cancellation fee:"HK$20",Min fare:"HK$40",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"HK$1.12",PriceByDistance:"HK$3.15",BaseFare:"HK$15",City:"Hong Kong",Cancellation fee:"HK$20",Min fare:"HK$30",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 9",BaseFare:"₹ 45",City:"Hyderabad",Cancellation fee:"₹ 100",Min fare:"₹ 80",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"₹ 2",PriceByDistance:"₹ 18",BaseFare:"₹ 80",City:"Hyderabad",Cancellation fee:"₹ 100",Min fare:"₹ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"500 ₫",PriceByDistance:"8.450 ₫",BaseFare:"5.000 ₫",City:"Ho Chi Minh City",Cancellation fee:"15.000 ₫",Min fare:"5.000 ₫",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"600 ₫",PriceByDistance:"11.499 ₫",BaseFare:"6.500 ₫",City:"Ho Chi Minh City",Cancellation fee:"15.000 ₫",Min fare:"10.000 ₫",DistanceUnit:"kilometer"}
+{Type:"UberEXEC",PriceByMinute:"1.500 ₫",PriceByDistance:"16.999 ₫",BaseFare:"10.000 ₫",City:"Ho Chi Minh City",Cancellation fee:"15.000 ₫",Min fare:"30.000 ₫",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"300 ₫",PriceByDistance:"4.999 ₫",BaseFare:"5.000 ₫",City:"Hanoi",Cancellation fee:"5.000 ₫",Min fare:"5.000 ₫",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"800 ₫",PriceByDistance:"9.597 ₫",BaseFare:"5.000 ₫",City:"Hanoi",Cancellation fee:"5.000 ₫",Min fare:"5.000 ₫",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"￥0.30",PriceByDistance:"￥2.20",BaseFare:"￥10",City:"Hangzhou",Cancellation fee:"￥0",Min fare:"￥15",DistanceUnit:"kilometer"}
+{Type:"BLACK",PriceByMinute:"￥0.55",PriceByDistance:"￥4",BaseFare:"￥16",City:"Hangzhou",Cancellation fee:"￥0",Min fare:"￥24",DistanceUnit:"kilometer"}
+{Type:"Gift",PriceByMinute:"￥0",PriceByDistance:"￥0",BaseFare:"￥1",City:"Hangzhou",Cancellation fee:"￥0",Min fare:"￥1",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"￥0.50",PriceByDistance:"￥1.50",BaseFare:"￥13",City:"Guangzhou",Cancellation fee:"￥15",Min fare:"￥15",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"￥0.60",PriceByDistance:"￥2.17",BaseFare:"￥14.50",City:"Guangzhou",Cancellation fee:"￥15",Min fare:"￥17",DistanceUnit:"kilometer"}
+{Type:"UberXL",PriceByMinute:"￥0.75",PriceByDistance:"￥2.75",BaseFare:"￥18",City:"Guangzhou",Cancellation fee:"￥15",Min fare:"￥21",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$1.30",BaseFare:"$2.50",City:"Gold Coast",Cancellation fee:"$6",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.35",PriceByDistance:"$1.10",BaseFare:"$2",City:"Geelong",Cancellation fee:"$10",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"UberEveryone's",PriceByMinute:"￥0",PriceByDistance:"￥0",BaseFare:"$0",City:"Fukuoka",Cancellation fee:"￥0",Min fare:"￥0",DistanceUnit:"kilometer"}
+{Type:"UberBlack",PriceByMinute:"￥0.60",PriceByDistance:"￥2.16",BaseFare:"￥14.50",City:"Foshan",Cancellation fee:"￥17",Min fare:"￥17",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 9",BaseFare:"₹ 40",City:"Chennai",Cancellation fee:"₹ 100",Min fare:"₹ 80",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"₹ 2",PriceByDistance:"₹ 18",BaseFare:"₹ 100",City:"Chennai",Cancellation fee:"₹ 150",Min fare:"₹ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"￥0.35",PriceByDistance:"￥2.25",BaseFare:"$0",City:"Chongqing",Cancellation fee:"￥10",Min fare:"￥10",DistanceUnit:"kilometer"}
+{Type:"Uber高级轿车 BLACK",PriceByMinute:"￥0.45",PriceByDistance:"￥3",BaseFare:"￥11",City:"Chengdu",Cancellation fee:"￥0",Min fare:"￥15",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 7",BaseFare:"₹ 33",City:"Chandigarh",Cancellation fee:"₹ 80",Min fare:"₹ 50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$1.30",BaseFare:"$2.50",City:"Brisbane",Cancellation fee:"$6",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"UberPeople's",PriceByMinute:"￥0.25",PriceByDistance:"￥1.50",BaseFare:"￥0",City:"Beijing",Cancellation fee:"￥8",Min fare:"￥10",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"￥0.70",PriceByDistance:"￥3.85",BaseFare:"￥18",City:"Beijing",Cancellation fee:"￥20",Min fare:"￥30",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"￥0.70",PriceByDistance:"￥3.85",BaseFare:"￥18",City:"Beijing",Cancellation fee:"￥20",Min fare:"￥30",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"￥0.40",PriceByDistance:"￥2.30",BaseFare:"￥15",City:"Beijing",Cancellation fee:"￥15",Min fare:"￥20",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"฿1",PriceByDistance:"฿4.50",BaseFare:"฿25",City:"Bangkok",Cancellation fee:"฿45",Min fare:"฿25",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"฿2.50",PriceByDistance:"฿14",BaseFare:"฿50",City:"Bangkok",Cancellation fee:"฿75",Min fare:"฿50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 8",BaseFare:"₹ 40",City:"Bangalore",Cancellation fee:"₹ 75",Min fare:"₹ 75",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"₹ 2",PriceByDistance:"₹ 17",BaseFare:"₹ 100",City:"Bangalore",Cancellation fee:"₹ 150",Min fare:"₹ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"Rp400",PriceByDistance:"Rp2.500",BaseFare:"Rp3.000",City:"Bandung",Cancellation fee:"Rp30.000",Min fare:"Rp3.000",DistanceUnit:"kilometer"}
+{Type:"UberBlack",PriceByMinute:"Rp600",PriceByDistance:"Rp3.098",BaseFare:"Rp7.000",City:"Bali",Cancellation fee:"Rp10.000",Min fare:"Rp10.000",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$2",BaseFare:"$1.50",City:"Auckland",Cancellation fee:"$10",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.60",PriceByDistance:"$2.30",BaseFare:"$3.50",City:"Auckland",Cancellation fee:"$10",Min fare:"$8",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"₹ 1",PriceByDistance:"₹ 7",BaseFare:"₹ 30",City:"Ahmedabad",Cancellation fee:"₹ 80",Min fare:"₹ 50",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$2.05",BaseFare:"$8",City:"Adelaide",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"CHF 0.30",PriceByDistance:"CHF 1.35",BaseFare:"CHF 3",City:"Zurich",Cancellation fee:"CHF 6",Min fare:"CHF 6",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"CHF 0.40",PriceByDistance:"CHF 2.20",BaseFare:"CHF 4",City:"Zurich",Cancellation fee:"CHF 8",Min fare:"CHF 8",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"CHF 0.60",PriceByDistance:"CHF 3.60",BaseFare:"CHF 6",City:"Zurich",Cancellation fee:"CHF 10",Min fare:"CHF 15",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,25 zł",PriceByDistance:"1,40 zł",BaseFare:"5 zł",City:"Warsaw",Cancellation fee:"10 zł",Min fare:"5 zł",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"€ 0,28",PriceByDistance:"€ 0,71",BaseFare:"€ 2",City:"Vienna",Cancellation fee:"€ 8",Min fare:"€ 5",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€ 0,40",PriceByDistance:"€ 1,50",BaseFare:"€ 4",City:"Vienna",Cancellation fee:"€ 10",Min fare:"€ 9",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"€ 0,40",PriceByDistance:"€ 1,50",BaseFare:"€ 4",City:"Vienna",Cancellation fee:"€ 10",Min fare:"€ 9",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,65",BaseFare:"€ 1",City:"Valencia",Cancellation fee:"€ 3",Min fare:"€ 3",DistanceUnit:"kilometer"}
+{Type:"UberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,55",BaseFare:"€ 2",City:"Turin",Cancellation fee:"€ 5",Min fare:"€ 5",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Toulouse",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"1 ₪",PriceByDistance:"2 ₪",BaseFare:"8 ₪",City:"Tel Aviv",Cancellation fee:"10 ₪",Min fare:"12 ₪",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€0.15",PriceByDistance:"€0.35",BaseFare:"€1.90",City:"Tallinn",Cancellation fee:"€3",Min fare:"€3",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Strasbourg",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"UberPOP",PriceByMinute:"2,03 kr",PriceByDistance:"6,15 kr",BaseFare:"25 kr",City:"Stockholm",Cancellation fee:"40 kr",Min fare:"40 kr",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"5,65 kr",PriceByDistance:"7,45 kr",BaseFare:"40 kr",City:"Stockholm",Cancellation fee:"75 kr",Min fare:"90 kr",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"9 kr",PriceByDistance:"13,80 kr",BaseFare:"50 kr",City:"Stockholm",Cancellation fee:"75 kr",Min fare:"100 kr",DistanceUnit:"kilometer"}
+{Type:"UberLUX",PriceByMinute:"12 kr",PriceByDistance:"16,50 kr",BaseFare:"100 kr",City:"Stockholm",Cancellation fee:"100 kr",Min fare:"175 kr",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"0,20 лв",PriceByDistance:"0,40 лв",BaseFare:"0,70 лв",City:"Sofia",Cancellation fee:"3, лв",Min fare:"3, лв",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.10",PriceByDistance:"£1.20",BaseFare:"£1.25",City:"Sheffield",Cancellation fee:"£4",Min fare:"£3",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"7, руб",PriceByDistance:"7, руб",BaseFare:"50, руб",City:"Saint Petersburg",Cancellation fee:"99, руб",Min fare:"50, руб",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"16, руб",PriceByDistance:"9, руб",BaseFare:"180, руб",City:"Saint Petersburg",Cancellation fee:"180, руб",Min fare:"299, руб",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,95",BaseFare:"€ 1",City:"Rotterdam",Cancellation fee:"€ 5",Min fare:"€ 4",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€ 0,35",PriceByDistance:"€ 1,90",BaseFare:"€ 3",City:"Rotterdam",Cancellation fee:"€ 10",Min fare:"€ 8",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€ 0,25",PriceByDistance:"€ 1,40",BaseFare:"€ 2",City:"Rome",Cancellation fee:"€ 8",Min fare:"€ 8",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"€ 0,25",PriceByDistance:"€ 1,40",BaseFare:"€ 2",City:"Rome",Cancellation fee:"€ 8",Min fare:"€ 8",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"ر.س.‏0٫50",PriceByDistance:"ر.س.‏1٫25",BaseFare:"ر.س.‏6٫00",City:"Riyadh",Cancellation fee:"ر.س.‏15٫00",Min fare:"ر.س.‏12٫00",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"ر.س.‏0٫75",PriceByDistance:"ر.س.‏1٫75",BaseFare:"ر.س.‏9٫00",City:"Riyadh",Cancellation fee:"ر.س.‏20٫00",Min fare:"ر.س.‏20٫00",DistanceUnit:"kilometer"}
+{Type:"UberLUX",PriceByMinute:"ر.س.‏0٫75",PriceByDistance:"ر.س.‏2٫50",BaseFare:"ر.س.‏12٫50",City:"Riyadh",Cancellation fee:"ر.س.‏30٫00",Min fare:"ر.س.‏30٫00",DistanceUnit:"kilometer"}
+{Type:"London Cab",PriceByMinute:"ر.س.‏0٫75",PriceByDistance:"ر.س.‏2٫00",BaseFare:"ر.س.‏10٫00",City:"Riyadh",Cancellation fee:"ر.س.‏30٫00",Min fare:"ر.س.‏25٫00",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"4 Kč",PriceByDistance:"10 Kč",BaseFare:"20 Kč",City:"Prague",Cancellation fee:"40 Kč",Min fare:"40 Kč",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"4 Kč",PriceByDistance:"23 Kč",BaseFare:"40 Kč",City:"Prague",Cancellation fee:"100 Kč",Min fare:"100 Kč",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,10 €",PriceByDistance:"0,65 €",BaseFare:"1 €",City:"Porto",Cancellation fee:"2,50 €",Min fare:"2,50 €",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"0,95 €",BaseFare:"1 €",City:"Paris",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,25 €",PriceByDistance:"1,40 €",BaseFare:"2 €",City:"Paris",Cancellation fee:"8 €",Min fare:"8 €",DistanceUnit:"kilometer"}
+{Type:"UberBERLINE",PriceByMinute:"0,50 €",PriceByDistance:"1,55 €",BaseFare:"5 €",City:"Paris",Cancellation fee:"10 €",Min fare:"15 €",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"0,40 €",PriceByDistance:"1,55 €",BaseFare:"5 €",City:"Paris",Cancellation fee:"10 €",Min fare:"12 €",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"NOK 5",PriceByDistance:"NOK 30",BaseFare:"NOK 65",City:"Oslo",Cancellation fee:"NOK 100",Min fare:"NOK 100",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Nice",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"UberBERLINE",PriceByMinute:"0,30 €",PriceByDistance:"1,70 €",BaseFare:"10 €",City:"Nice",Cancellation fee:"15 €",Min fare:"15 €",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"0,30 €",PriceByDistance:"1,70 €",BaseFare:"10 €",City:"Nice",Cancellation fee:"15 €",Min fare:"15 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.10",PriceByDistance:"£1.40",BaseFare:"£0.60",City:"Newcastle",Cancellation fee:"£4",Min fare:"£3",DistanceUnit:"mile"}
+{Type:"UberExec",PriceByMinute:"£0.15",PriceByDistance:"£1.75",BaseFare:"£2",City:"Newcastle",Cancellation fee:"£5",Min fare:"£4",DistanceUnit:"mile"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Nantes",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"KES 4",PriceByDistance:"KES 60",BaseFare:"KES 100",City:"Nairobi",Cancellation fee:"KES 400",Min fare:"KES 300",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,30 €",PriceByDistance:"1,30 €",BaseFare:"2 €",City:"Munich",Cancellation fee:"6 €",Min fare:"6 €",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"0,50 €",PriceByDistance:"1,50 €",BaseFare:"6 €",City:"Munich",Cancellation fee:"10 €",Min fare:"9 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"8, руб",PriceByDistance:"8, руб",BaseFare:"50, руб",City:"Moscow",Cancellation fee:"99, руб",Min fare:"99, руб",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"20, руб",PriceByDistance:"10, руб",BaseFare:"199, руб",City:"Moscow",Cancellation fee:"190, руб",Min fare:"299, руб",DistanceUnit:"kilometer"}
+{Type:"UberPOP",PriceByMinute:"€ 0,20",PriceByDistance:"€ 0,35",BaseFare:"€ 2",City:"Milan",Cancellation fee:"€ 5",Min fare:"€ 5",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€ 0,60",PriceByDistance:"€ 1,10",BaseFare:"€ 6",City:"Milan",Cancellation fee:"€ 12",Min fare:"€ 12",DistanceUnit:"kilometer"}
+{Type:"UberVAN",PriceByMinute:"€ 0,60",PriceByDistance:"€ 1,10",BaseFare:"€ 6",City:"Milan",Cancellation fee:"€ 12",Min fare:"€ 12",DistanceUnit:"kilometer"}
+{Type:"uberPop",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Marseille",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.15",PriceByDistance:"£1.30",BaseFare:"£1.50",City:"Manchester",Cancellation fee:"£4",Min fare:"£3",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"£0.15",PriceByDistance:"£2.10",BaseFare:"£2.65",City:"Manchester",Cancellation fee:"£5",Min fare:"£5",DistanceUnit:"mile"}
+{Type:"UberEXEC",PriceByMinute:"£0.20",PriceByDistance:"£1.70",BaseFare:"£2",City:"Manchester",Cancellation fee:"£5",Min fare:"£4",DistanceUnit:"mile"}
+{Type:"UberX",PriceByMinute:"BD0.05",PriceByDistance:"BD0.12",BaseFare:"BD0.60",City:"Manama",Cancellation fee:"BD1.50",Min fare:"BD1.20",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"BD0.08",PriceByDistance:"BD0.28",BaseFare:"BD1.11",City:"Manama",Cancellation fee:"BD2",Min fare:"BD2",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,65",BaseFare:"€ 1",City:"Madrid",Cancellation fee:"€ 3",Min fare:"€ 3",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"0,95 €",BaseFare:"1 €",City:"Lyon",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"0,45 €",PriceByDistance:"1,73 €",BaseFare:"4 €",City:"Lyon",Cancellation fee:"10 €",Min fare:"10 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.15",PriceByDistance:"£1.25",BaseFare:"£2.50",City:"London",Cancellation fee:"£5",Min fare:"£5",DistanceUnit:"mile"}
+{Type:"UberEXEC",PriceByMinute:"£0.30",PriceByDistance:"£2.40",BaseFare:"£4",City:"London",Cancellation fee:"£7",Min fare:"£10",DistanceUnit:"mile"}
+{Type:"UberLUX",PriceByMinute:"£0.55",PriceByDistance:"£3.55",BaseFare:"£5",City:"London",Cancellation fee:"£10",Min fare:"£14",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"£0.15",PriceByDistance:"£2.10",BaseFare:"£3.50",City:"London",Cancellation fee:"£7",Min fare:"£7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"0,10 €",PriceByDistance:"0,65 €",BaseFare:"1 €",City:"Lisbon",Cancellation fee:"2,50 €",Min fare:"2,50 €",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"0,30 €",PriceByDistance:"1,10 €",BaseFare:"2 €",City:"Lisbon",Cancellation fee:"8 €",Min fare:"8 €",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"0,95 €",BaseFare:"1 €",City:"Lille",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,25 €",PriceByDistance:"1,40 €",BaseFare:"2 €",City:"Lille",Cancellation fee:"6 €",Min fare:"6 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.10",PriceByDistance:"£1.20",BaseFare:"£1.25",City:"Leeds",Cancellation fee:"£4",Min fare:"£3",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"£0.12",PriceByDistance:"£1.95",BaseFare:"£2.05",City:"Leeds",Cancellation fee:"£5",Min fare:"£5",DistanceUnit:"mile"}
+{Type:"uberEXEC",PriceByMinute:"£0.17",PriceByDistance:"£1.60",BaseFare:"£2",City:"Leeds",Cancellation fee:"£4",Min fare:"£4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"₦9",PriceByDistance:"₦90",BaseFare:"₦400",City:"Lagos",Cancellation fee:"₦1,000",Min fare:"₦400",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"₦15",PriceByDistance:"₦155",BaseFare:"₦500",City:"Lagos",Cancellation fee:"₦1,000",Min fare:"₦800",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"CHF 0.30",PriceByDistance:"CHF 1.35",BaseFare:"CHF 3",City:"Lausanne",Cancellation fee:"CHF 6",Min fare:"CHF 6",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,25 zł",PriceByDistance:"1,40 zł",BaseFare:"5 zł",City:"Krakow",Cancellation fee:"10 zł",Min fare:"5 zł",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"R0,60",PriceByDistance:"R6",BaseFare:"R5",City:"Johannesburg",Cancellation fee:"R25",Min fare:"R20",DistanceUnit:"kilometer"}
+{Type:"uberVAN",PriceByMinute:"R1,60",PriceByDistance:"R16",BaseFare:"R22",City:"Johannesburg",Cancellation fee:"R100",Min fare:"R75",DistanceUnit:"kilometer"}
+{Type:"uberBLACK",PriceByMinute:"R1,30",PriceByDistance:"R13",BaseFare:"R15",City:"Johannesburg",Cancellation fee:"R70",Min fare:"R50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"ر.س.‏0٫50",PriceByDistance:"ر.س.‏1٫25",BaseFare:"ر.س.‏6٫00",City:"Jeddah",Cancellation fee:"ر.س.‏15٫00",Min fare:"ر.س.‏12٫00",DistanceUnit:"kilometer"}
+{Type:"UBER BLACK",PriceByMinute:"ر.س.‏0٫75",PriceByDistance:"ر.س.‏1٫75",BaseFare:"ر.س.‏9٫00",City:"Jeddah",Cancellation fee:"ر.س.‏20٫00",Min fare:"ر.س.‏20٫00",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"0,60 TRY",PriceByDistance:"4,20 TRY",BaseFare:"16 TRY",City:"Istanbul",Cancellation fee:"20 TRY",Min fare:"25 TRY",DistanceUnit:"kilometer"}
+{Type:"uberGO",PriceByMinute:"0,30 TRY",PriceByDistance:"1,35 TRY",BaseFare:"3 TRY",City:"Istanbul",Cancellation fee:"15 TRY",Min fare:"8 TRY",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"0,35 TRY",PriceByDistance:"2,50 TRY",BaseFare:"8 TRY",City:"Istanbul",Cancellation fee:"15 TRY",Min fare:"15 TRY",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"0,40 €",PriceByDistance:"1,90 €",BaseFare:"5 €",City:"Helsinki",Cancellation fee:"12 €",Min fare:"12 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,25 €",PriceByDistance:"1,30 €",BaseFare:"2 €",City:"Hamburg",Cancellation fee:"5 €",Min fare:"5 €",DistanceUnit:"kilometer"}
+{Type:"UberPOP",PriceByMinute:"2,03 kr",PriceByDistance:"6,15 kr",BaseFare:"25 kr",City:"Gothenburg",Cancellation fee:"40 kr",Min fare:"40 kr",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"8,50 kr",PriceByDistance:"11,80 kr",BaseFare:"50 kr",City:"Gothenburg",Cancellation fee:"75 kr",Min fare:"100 kr",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,25 €",PriceByDistance:"1,20 €",BaseFare:"2 €",City:"Frankfurt",Cancellation fee:"5 €",Min fare:"5 €",DistanceUnit:"kilometer"}
+{Type:"BLACK",PriceByMinute:"0,40 €",PriceByDistance:"1,15 €",BaseFare:"4,50 €",City:"Frankfurt",Cancellation fee:"9 €",Min fare:"9 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"3, руб",PriceByDistance:"3, руб",BaseFare:"50, руб",City:"Ekaterinburg",Cancellation fee:"59, руб",Min fare:"59, руб",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"CHF 0.40",PriceByDistance:"CHF 2.20",BaseFare:"CHF 4",City:"Geneva",Cancellation fee:"CHF 8",Min fare:"CHF 8",DistanceUnit:"kilometer"}
+{Type:"uberBLACK",PriceByMinute:"CHF 0.60",PriceByDistance:"CHF 3.60",BaseFare:"CHF 8",City:"Geneva",Cancellation fee:"CHF 10",Min fare:"CHF 15",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"ر.س.‏0٫50",PriceByDistance:"ر.س.‏1٫25",BaseFare:"ر.س.‏6٫00",City:"Eastern Province, KSA",Cancellation fee:"ر.س.‏15٫00",Min fare:"ر.س.‏12٫00",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,20 €",PriceByDistance:"1,30 €",BaseFare:"2 €",City:"Dusseldorf",Cancellation fee:"5 €",Min fare:"5 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"R0,60",PriceByDistance:"R6",BaseFare:"R5",City:"Durban",Cancellation fee:"R17,50",Min fare:"R20",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€0.65",PriceByDistance:"€1.25",BaseFare:"€6",City:"Dublin",Cancellation fee:"€10",Min fare:"€15",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"AED0.30",PriceByDistance:"AED1.75",BaseFare:"AED8",City:"Dubai",Cancellation fee:"AED16",Min fare:"AED16",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"AED0.80",PriceByDistance:"AED1.90",BaseFare:"AED10",City:"Dubai",Cancellation fee:"AED20",Min fare:"AED20",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"QR0.65",PriceByDistance:"QR1.50",BaseFare:"QR4.50",City:"Doha",Cancellation fee:"QR15",Min fare:"QR15",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"4 kr",PriceByDistance:"20 kr",BaseFare:"40 kr",City:"Copenhagen",Cancellation fee:"100 kr",Min fare:"100 kr",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"R0,60",PriceByDistance:"R6",BaseFare:"R5",City:"Cape Town",Cancellation fee:"R17,50",Min fare:"R20",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"R0,70",PriceByDistance:"R7",BaseFare:"R20",City:"Cape Town",Cancellation fee:"R25",Min fare:"R30",DistanceUnit:"kilometer"}
+{Type:"uberBLACK",PriceByMinute:"R1,10",PriceByDistance:"R11",BaseFare:"R15",City:"Cape Town",Cancellation fee:"R45",Min fare:"R50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"25 Ft",PriceByDistance:"130 Ft",BaseFare:"300 Ft",City:"Budapest",Cancellation fee:"800 Ft",Min fare:"400 Ft",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"ج.م.‏0٫20",PriceByDistance:"ج.م.‏1٫30",BaseFare:"ج.م.‏3٫00",City:"Cairo",Cancellation fee:"ج.م.‏8٫00",Min fare:"ج.م.‏8٫00",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"0,23 RON",PriceByDistance:"1,39 RON",BaseFare:"1,39 RON",City:"Bucharest",Cancellation fee:"6 RON",Min fare:"6 RON",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"0,90 €",BaseFare:"1 €",City:"Brussels",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.15",PriceByDistance:"£1.30",BaseFare:"£2.20",City:"Bristol",Cancellation fee:"£4",Min fare:"£3.50",DistanceUnit:"mile"}
+{Type:"uberPOP",PriceByMinute:"0,15 €",PriceByDistance:"1 €",BaseFare:"1 €",City:"Bordeaux",Cancellation fee:"4 €",Min fare:"4 €",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"£0.15",PriceByDistance:"£1.10",BaseFare:"£1.40",City:"Birmingham",Cancellation fee:"£3.50",Min fare:"£3.50",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"£0.20",PriceByDistance:"£1.70",BaseFare:"£2.05",City:"Birmingham",Cancellation fee:"£5",Min fare:"£5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$0.50",BaseFare:"$2",City:"Beirut",Cancellation fee:"$5",Min fare:"$5",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$0.20",PriceByDistance:"$0.81",BaseFare:"$2.50",City:"Beirut",Cancellation fee:"$7",Min fare:"$7",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"CHF 0.30",PriceByDistance:"CHF 1.35",BaseFare:"CHF 3",City:"Basel",Cancellation fee:"CHF 6",Min fare:"CHF 6",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,65",BaseFare:"€ 1",City:"Barcelona",Cancellation fee:"€ 3",Min fare:"€ 3",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"AZN 0.05",PriceByDistance:"AZN 0.40",BaseFare:"AZN 2",City:"Baku",Cancellation fee:"AZN 3",Min fare:"AZN 3",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"AZN 0.20",PriceByDistance:"AZN 0.90",BaseFare:"AZN 2",City:"Baku",Cancellation fee:"AZN 5",Min fare:"AZN 5",DistanceUnit:"kilometer"}
+{Type:"uberPOP",PriceByMinute:"€ 0,15",PriceByDistance:"€ 0,95",BaseFare:"€ 1",City:"Amsterdam",Cancellation fee:"€ 5",Min fare:"€ 4",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"€ 0,35",PriceByDistance:"€ 1,90",BaseFare:"€ 3",City:"Amsterdam",Cancellation fee:"€ 10",Min fare:"€ 8",DistanceUnit:"kilometer"}
+{Type:"UberLUX",PriceByMinute:"€ 0,40",PriceByDistance:"€ 2,20",BaseFare:"€ 6",City:"Amsterdam",Cancellation fee:"€ 10",Min fare:"€ 12",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"JD0.07",PriceByDistance:"JD0.16",BaseFare:"JD0.70",City:"Amman",Cancellation fee:"JD2",Min fare:"JD2",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"AED0.50",PriceByDistance:"AED1.20",BaseFare:"AED10",City:"Abu Dhabi",Cancellation fee:"AED15",Min fare:"AED15",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"AED1",PriceByDistance:"AED1.94",BaseFare:"AED12.50",City:"Abu Dhabi",Cancellation fee:"AED18",Min fare:"AED18",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"R$0,35",PriceByDistance:"R$1,43",BaseFare:"R$3",City:"São Paulo",Cancellation fee:"R$8",Min fare:"R$8",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"R$0,40",PriceByDistance:"R$2,42",BaseFare:"R$5",City:"São Paulo",Cancellation fee:"R$10",Min fare:"R$10",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$120",PriceByDistance:"$300",BaseFare:"$800",City:"Santiago",Cancellation fee:"$1.600",Min fare:"$1.600",DistanceUnit:"kilometer"}
+{Type:"Uber",PriceByMinute:"$160",PriceByDistance:"$385,25",BaseFare:"$1.250",City:"Santiago",Cancellation fee:"$2.500",Min fare:"$2.500",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"$200",PriceByDistance:"$481,56",BaseFare:"$1.560",City:"Santiago",Cancellation fee:"$3.125",Min fare:"$3.125",DistanceUnit:"kilometer"}
+{Type:"Uber Black",PriceByMinute:"R$0,30",PriceByDistance:"R$2,20",BaseFare:"R$5",City:"Rio De Janeiro",Cancellation fee:"R$10",Min fare:"R$10",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"US$ 0.14",PriceByDistance:"US$ 0.25",BaseFare:"US$ 1",City:"Panama, Panama",Cancellation fee:"US$ 2",Min fare:"US$ 2.40",DistanceUnit:"kilometer"}
+{Type:"UBER",PriceByMinute:"US$ 0.20",PriceByDistance:"US$ 0.43",BaseFare:"US$ 1.75",City:"Panama, Panama",Cancellation fee:"US$ 3",Min fare:"US$ 4",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"US$ 0.25",PriceByDistance:"US$ 0.55",BaseFare:"US$ 2.20",City:"Panama, Panama",Cancellation fee:"US$ 3.75",Min fare:"US$ 5",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"$ 100",PriceByDistance:"$ 625",BaseFare:"$ 2.500",City:"Medellin",Cancellation fee:"$ 4.600",Min fare:"$ 4.600",DistanceUnit:"kilometer"}
+{Type:"Uber",PriceByMinute:"$ 150",PriceByDistance:"$ 1.000",BaseFare:"$ 2.750",City:"Medellin",Cancellation fee:"$ 5.500",Min fare:"$ 5.500",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"PEN 0",PriceByDistance:"PEN 1.40",BaseFare:"PEN 3.25",City:"Lima",Cancellation fee:"PEN 4",Min fare:"PEN 7",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"PEN 0.25",PriceByDistance:"PEN 1.70",BaseFare:"PEN 6",City:"Lima",Cancellation fee:"PEN 6",Min fare:"PEN 12",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"$ 130",PriceByDistance:"$ 530,03",BaseFare:"$ 1.800",City:"Cali - Colombia",Cancellation fee:"$ 4.000",Min fare:"$ 4.000",DistanceUnit:"kilometer"}
+{Type:"Uber",PriceByMinute:"$ 300",PriceByDistance:"$ 621,37",BaseFare:"$ 2.000",City:"Cali - Colombia",Cancellation fee:"$ 5.000",Min fare:"$ 5.000",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"R$0,25",PriceByDistance:"R$1,75",BaseFare:"R$4",City:"Brasilia",Cancellation fee:"R$10",Min fare:"R$10",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"R$0,30",PriceByDistance:"R$2,17",BaseFare:"R$4,50",City:"Belo Horizonte",Cancellation fee:"R$10",Min fare:"R$10",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$ 110",PriceByDistance:"$ 549,91",BaseFare:"$ 2.200",City:"Bogotá",Cancellation fee:"$ 4.600",Min fare:"$ 4.600",DistanceUnit:"kilometer"}
+{Type:"Uber",PriceByMinute:"$ 160",PriceByDistance:"$ 899,74",BaseFare:"$ 2.600",City:"Bogotá",Cancellation fee:"$ 6.000",Min fare:"$ 6.000",DistanceUnit:"kilometer"}
+{Type:"UberAngel",PriceByMinute:"$ 0",PriceByDistance:"$ 0",BaseFare:"$ 10.000",City:"Bogotá",Cancellation fee:"$ 15.000",Min fare:"$ 50.000",DistanceUnit:"kilometer"}
+{Type:"uberVAN",PriceByMinute:"$ 300",PriceByDistance:"$ 1.242,74",BaseFare:"$ 5.000",City:"Bogotá",Cancellation fee:"$ 9.000",Min fare:"$ 9.000",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$ 100",PriceByDistance:"$ 625",BaseFare:"$ 2.500",City:"Barranquilla",Cancellation fee:"$ 5.000",Min fare:"$ 5.000",DistanceUnit:"kilometer"}
+{Type:"Uber",PriceByMinute:"$ 150",PriceByDistance:"$ 1.000",BaseFare:"$ 3.000",City:"Barranquilla",Cancellation fee:"$ 6.000",Min fare:"$ 6.000",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.70",BaseFare:"$2",City:"Yuma",Cancellation fee:"$5",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.21",PriceByDistance:"$1.20",BaseFare:"$2",City:"Worcester",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.60",BaseFare:"$7",City:"Worcester",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1.20",BaseFare:"$1.45",City:"Wilmington, Nc",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$3.50",City:"Wilmington, Nc",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Wilkes-Barre Scranton",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Wichita",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.21",PriceByDistance:"$1.20",BaseFare:"$2",City:"Western MA",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.02",BaseFare:"$2",City:"Washington D.C.",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.50",BaseFare:"$4",City:"Washington D.C.",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.40",BaseFare:"$7",City:"Washington D.C.",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.45",PriceByDistance:"$3.65",BaseFare:"$14",City:"Washington D.C.",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$1.90",City:"Waco",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.70",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.29",PriceByDistance:"$1.25",BaseFare:"$1.61",City:"Ventura",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.95",BaseFare:"$3.50",City:"Ventura",Cancellation fee:"$5",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"Uber Black",PriceByMinute:"$0.45",PriceByDistance:"$3.55",BaseFare:"$8",City:"Ventura",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberSUV",PriceByMinute:"$0.55",PriceByDistance:"$4.25",BaseFare:"$15",City:"Ventura",Cancellation fee:"$15",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.55",BaseFare:"$1.50",City:"Vancouver, Wa",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.20",BaseFare:"$1.25",City:"Tulsa",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3",City:"Tulsa",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.25",BaseFare:"$5",City:"Tulsa",Cancellation fee:"$10",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$0.80",BaseFare:"$2.50",City:"Toronto",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.50",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.55",BaseFare:"$5",City:"Toronto",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"SELECT",PriceByMinute:"$0.35",PriceByDistance:"$1.80",BaseFare:"$5",City:"Toronto",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$0.50",PriceByDistance:"$2.70",BaseFare:"$8",City:"Toronto",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"$0.60",PriceByDistance:"$2.80",BaseFare:"$15",City:"Toronto",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.25",BaseFare:"$1.45",City:"Tucson",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$2.45",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.75",BaseFare:"$3.50",City:"Tucson",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Topeka",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.05",BaseFare:"$1",City:"Toledo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$ 2",PriceByDistance:"$ 3.80",BaseFare:"$ 8",City:"Tijuana",Cancellation fee:"$ 35",Min fare:"$ 35",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$ 2.35",PriceByDistance:"$ 8.49",BaseFare:"$ 20",City:"Tijuana",Cancellation fee:"$ 45",Min fare:"$ 45",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$ 2.50",PriceByDistance:"$ 9",BaseFare:"$ 30",City:"Tijuana",Cancellation fee:"$ 50",Min fare:"$ 50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.13",PriceByDistance:"$0.95",BaseFare:"$1",City:"Tampa Bay",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.20",PriceByDistance:"$1.50",BaseFare:"$3",City:"Tampa Bay",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3",City:"Tampa Bay",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.24",PriceByDistance:"$1.35",BaseFare:"$1.35",City:"Tacoma",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.75",BaseFare:"$3",City:"Tacoma",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.75",BaseFare:"$7",City:"Tacoma",Cancellation fee:"$10",Min fare:"$12",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.40",PriceByDistance:"$4.20",BaseFare:"$14",City:"Tacoma",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1.50",BaseFare:"$2",City:"Tallahassee",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$1.90",City:"Stillwater",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"State College",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$1.75",City:"St Louis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.55",BaseFare:"$7",City:"St Louis",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Springfield, IL",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.24",PriceByDistance:"$1.35",BaseFare:"$1.35",City:"Spokane",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.75",BaseFare:"$3",City:"Spokane",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.25",BaseFare:"$1.90",City:"South Bend",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$0",DistanceUnit:"mile"}
+{Type:"uberX",City Of Seattle:"$0.20",PriceByMinute:"$0.24",PriceByDistance:"$1.35",BaseFare:"$1.35",City:"Seattle",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",City Of Seattle:"$0.20",PriceByMinute:"$0.30",PriceByDistance:"$2.75",BaseFare:"$3",City:"Seattle",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.75",BaseFare:"$7",City:"Seattle",Cancellation fee:"$10",Min fare:"$12",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.40",PriceByDistance:"$4.20",BaseFare:"$14",City:"Seattle",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"For Hire",PriceByMinute:"$0.25",PriceByDistance:"$1.99",BaseFare:"$1.99",City:"Seattle",Cancellation fee:"$5",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.50",BaseFare:"$1.75",City:"Savannah-Hilton Head",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.13",PriceByDistance:"$1.20",BaseFare:"$1.25",City:"Sarasota",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.85",BaseFare:"$2.35",City:"Santa Fe",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.40",BaseFare:"$1.50",City:"Santa Barbara",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"WINE",PriceByMinute:"$0.29",PriceByDistance:"$1.25",BaseFare:"$1.61",City:"Santa Barbara",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3.50",City:"Santa Barbara",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"WINEXL",PriceByMinute:"$0.35",PriceByDistance:"$1.95",BaseFare:"$3.50",City:"Santa Barbara",Cancellation fee:"$10",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberPLUS",PriceByMinute:"$0.40",PriceByDistance:"$2.50",BaseFare:"$5",City:"Santa Barbara",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.50",PriceByDistance:"$4",BaseFare:"$8",City:"Santa Barbara",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$2.45",BaseFare:"$3",City:"San Luis Obispo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"WINE",PriceByMinute:"$0.50",PriceByDistance:"$0.70",BaseFare:"$0",City:"San Luis Obispo",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$3.70",BaseFare:"$4.50",City:"San Luis Obispo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"WINEXL",PriceByMinute:"$0.65",PriceByDistance:"$0.90",BaseFare:"$0",City:"San Luis Obispo",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.26",PriceByDistance:"$1.30",BaseFare:"$2.20",City:"San Francisco",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.45",PriceByDistance:"$2.15",BaseFare:"$5",City:"San Francisco",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.65",PriceByDistance:"$3.75",BaseFare:"$8",City:"San Francisco",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.90",PriceByDistance:"$3.75",BaseFare:"$15",City:"San Francisco",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.10",BaseFare:"$1.85",City:"San Diego",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.25",BaseFare:"$2.85",City:"San Diego",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberPLUS",PriceByMinute:"$0.30",PriceByDistance:"$2.35",BaseFare:"$4",City:"San Diego",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.55",BaseFare:"$8",City:"San Diego",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.40",PriceByDistance:"$4.30",BaseFare:"$15",City:"San Diego",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.20",BaseFare:"$1",City:"San Antonio",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.35",BaseFare:"$3",City:"San Antonio",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.75",BaseFare:"$5",City:"San Antonio",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.75",BaseFare:"$3",City:"Salem",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.25",BaseFare:"$1",City:"Salt Lake City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.40",BaseFare:"$2",City:"Salt Lake City",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Rockford",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$0.95",BaseFare:"$1",City:"Sacramento",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.85",BaseFare:"$3",City:"Sacramento",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.65",PriceByDistance:"$3.75",BaseFare:"$8",City:"Sacramento",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4.75",BaseFare:"$14",City:"Sacramento",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$2.75",City:"Roanoke-Blacksburg",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.35",BaseFare:"$1.25",City:"Richmond",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.50",BaseFare:"$3",City:"Richmond",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Reading, PA",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$0.85",BaseFare:"$1.10",City:"Raleigh-Durham",Cancellation fee:"$4",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.50",BaseFare:"$3",City:"Raleigh-Durham",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$1.65",BaseFare:"$3",City:"Raleigh-Durham",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$0.90",BaseFare:"$2.75",City:"Quebec City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.17",PriceByDistance:"$0.80",BaseFare:"$1.10",City:"Providence",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$3",City:"Providence",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.85",BaseFare:"$1.50",City:"Portland, ME",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.55",BaseFare:"$1.50",City:"Portland",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.25",BaseFare:"$2",City:"Pittsburgh",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uber XL",PriceByMinute:"$0.45",PriceByDistance:"$2",BaseFare:"$3",City:"Pittsburgh",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.50",BaseFare:"$1.95",City:"Piedmont Triad, NC",Cancellation fee:"$4",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.35",BaseFare:"$3.50",City:"Piedmont Triad, NC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.05",BaseFare:"$1.50",City:"Phoenix",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.45",BaseFare:"$4",City:"Phoenix",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.90",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.25",PriceByDistance:"$2",BaseFare:"$4",City:"Phoenix",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.40",PriceByDistance:"$4.10",BaseFare:"$14",City:"Phoenix",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.25",BaseFare:"$7",City:"Phoenix",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.10",BaseFare:"$1.25",City:"Philadelphia",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2",BaseFare:"$3",City:"Philadelphia",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Pensacola, FL",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Panama City, Fl",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.75",BaseFare:"$2.50",City:"Palm Springs",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.90",BaseFare:"$5",City:"Palm Springs",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.55",BaseFare:"$8",City:"Palm Springs",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.55",PriceByDistance:"$4.25",BaseFare:"$15",City:"Palm Springs",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.90",BaseFare:"$2",City:"Oxford",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$2",City:"Outer Banks, NC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$0.80",BaseFare:"$2",City:"Ottawa",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.30",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.45",BaseFare:"$4.50",City:"Ottawa",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.50",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.13",PriceByDistance:"$0.75",BaseFare:"$1",City:"Orlando",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.45",BaseFare:"$3",City:"Orlando",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3",City:"Orlando",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.10",BaseFare:"$0",City:"Orange County",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.85",BaseFare:"$3",City:"Orange County",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberPLUS",PriceByMinute:"$0.40",PriceByDistance:"$2.35",BaseFare:"$5",City:"Orange County",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.55",BaseFare:"$8",City:"Orange County",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4.30",BaseFare:"$15",City:"Orange County",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.20",BaseFare:"$1.25",City:"Oklahoma City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3",City:"Oklahoma City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.25",BaseFare:"$5",City:"Oklahoma City",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.20",BaseFare:"$0.50",City:"Omaha",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.80",BaseFare:"$2.50",City:"Omaha",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Ocala, FL",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.40",PriceByDistance:"$2.15",BaseFare:"$3",City:"New York City",Cancellation fee:"$10",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.60",PriceByDistance:"$3.25",BaseFare:"$4.50",City:"New York City",Cancellation fee:"$10",Min fare:"$12",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.65",PriceByDistance:"$3.75",BaseFare:"$7",City:"New York City",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.80",PriceByDistance:"$4.50",BaseFare:"$14",City:"New York City",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.35",BaseFare:"$1.75",City:"New Orleans",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.40",PriceByDistance:"$2.80",BaseFare:"$4",City:"New Orleans",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBlack",PriceByMinute:"$0.50",PriceByDistance:"$3.25",BaseFare:"$7",City:"New Orleans",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.60",PriceByDistance:"$4.50",BaseFare:"$15",City:"New Orleans",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$2",BaseFare:"$3",City:"New Jersey (Shore)",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$3.50",BaseFare:"$5",City:"New Jersey (Shore)",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$12",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.55",PriceByDistance:"$4.70",BaseFare:"$10",City:"New Jersey (Shore)",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.80",PriceByDistance:"$6",BaseFare:"$15",City:"New Jersey (Shore)",Cancellation fee:"$10",Min fare:"$30",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.10",BaseFare:"$1.25",City:"New Jersey",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$3",City:"New Jersey",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.65",PriceByDistance:"$3.75",BaseFare:"$7",City:"New Jersey",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.80",PriceByDistance:"$4.50",BaseFare:"$14",City:"New Jersey",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.23",PriceByDistance:"$2",BaseFare:"$1.75",City:"New Hampshire",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.05",BaseFare:"$1",City:"Nashville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.80",BaseFare:"$4",City:"Nashville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$1.80",BaseFare:"$4",City:"Nashville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"SUV",PriceByMinute:"$0.50",PriceByDistance:"$4",BaseFare:"$12",City:"Nashville",Cancellation fee:"$10",Safe Rides Fee:"$0",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$2.70",BaseFare:"$7",City:"Nashville",Cancellation fee:"$10",Safe Rides Fee:"$0",Min fare:"$14",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.50",BaseFare:"$2",City:"NW Indiana",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.75",BaseFare:"$1.95",City:"Myrtle Beach",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$0.90",BaseFare:"$2.75",City:"Montreal",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.75",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.45",BaseFare:"$5",City:"Montreal",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"uberSELECT",PriceByMinute:"$0.40",PriceByDistance:"$2.40",BaseFare:"$5",City:"Montreal",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"UberX",PriceByMinute:"$ 2.15",PriceByDistance:"$ 3.95",BaseFare:"$ 8.15",City:"Monterrey",Cancellation fee:"$ 35",Min fare:"$ 35",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$ 3",PriceByDistance:"$ 7.06",BaseFare:"$ 30",City:"Monterrey",Cancellation fee:"$ 70",Min fare:"$ 70",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.22",PriceByDistance:"$1.25",BaseFare:"$1.10",City:"Modesto",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.60",BaseFare:"$3",City:"Modesto",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Mobile, AL",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.17",PriceByDistance:"$1.30",BaseFare:"$0.60",City:"Minneapolis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.50",BaseFare:"$3",City:"Minneapolis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.25",BaseFare:"$7",City:"Minneapolis",Cancellation fee:"$10",Min fare:"$14",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.35",PriceByDistance:"$3.80",BaseFare:"$14",City:"Minneapolis",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.10",BaseFare:"$1.25",City:"Milwaukee",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.95",BaseFare:"$2.85",City:"Milwaukee",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.50",BaseFare:"$4",City:"Milwaukee",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.20",BaseFare:"$7",City:"Milwaukee",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberSUV",PriceByMinute:"$0.45",PriceByDistance:"$3.80",BaseFare:"$14",City:"Milwaukee",Cancellation fee:"$10",Min fare:"$20",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$0.95",BaseFare:"$1",City:"Miami",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.95",BaseFare:"$2",City:"Miami",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.40",PriceByDistance:"$2.35",BaseFare:"$2.50",City:"Miami",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$ 2",PriceByDistance:"$ 3.50",BaseFare:"$ 7.25",City:"Mexico City",Cancellation fee:"$ 40",Min fare:"$ 40",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$ 3.50",PriceByDistance:"$ 7.65",BaseFare:"$ 30",City:"Mexico City",Cancellation fee:"$ 100",Min fare:"$ 100",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$ 3.50",PriceByDistance:"$ 8.25",BaseFare:"$ 30",City:"Mexico City",Cancellation fee:"$ 100",Min fare:"$ 100",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"$ 4",PriceByDistance:"$ 13.20",BaseFare:"$ 40",City:"Mexico City",Cancellation fee:"$ 150",Min fare:"$ 150",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1",BaseFare:"$0.70",City:"Memphis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.20",PriceByDistance:"$1.40",BaseFare:"$2.50",City:"Memphis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberx",PriceByMinute:"$0.30",PriceByDistance:"$1.75",BaseFare:"$2.15",City:"Maui",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.55",PriceByDistance:"$3.95",BaseFare:"$7",City:"Maui",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Manhattan",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.10",BaseFare:"$1.25",City:"Madison",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.95",BaseFare:"$2.85",City:"Madison",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.40",BaseFare:"$1.50",City:"Lubbock",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1",BaseFare:"$1",City:"Louisville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.60",BaseFare:"$3",City:"Louisville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$4",City:"Louisville",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberSUV",PriceByMinute:"$0.65",PriceByDistance:"$4.75",BaseFare:"$16",City:"Louisville",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"Black Car",PriceByMinute:"$0.50",PriceByDistance:"$3.60",BaseFare:"$8",City:"Louisville",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1",BaseFare:"$0",City:"Los Angeles",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.85",BaseFare:"$3",City:"Los Angeles",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberPLUS",PriceByMinute:"$0.40",PriceByDistance:"$2.35",BaseFare:"$5",City:"Los Angeles",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.55",BaseFare:"$8",City:"Los Angeles",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.55",PriceByDistance:"$4.25",BaseFare:"$15",City:"Los Angeles",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberLUX",PriceByMinute:"$0.60",PriceByDistance:"$5",BaseFare:"$20",City:"Los Angeles",Cancellation fee:"$10",Min fare:"$30",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2.50",City:"Little Rock",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1",BaseFare:"$0",City:"Lincoln",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1",BaseFare:"$1",City:"Lexington",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$4",City:"Lexington",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Lehigh Valley",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Lawrence",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$1.90",City:"Las Cruces",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.60",BaseFare:"$2",City:"Lansing",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.60",BaseFare:"$4",City:"Lansing",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Lancaster, PA",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.35",BaseFare:"$1.75",City:"Lafayette, LA",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.25",BaseFare:"$2.20",City:"Knoxville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1",BaseFare:"$1.50",City:"Kansas City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.60",BaseFare:"$3",City:"Kansas City",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.25",BaseFare:"$5",City:"Kansas City",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.60",BaseFare:"$2.80",City:"Kalamazoo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2.50",City:"Jackson",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.13",PriceByDistance:"$0.75",BaseFare:"$1",City:"Jacksonville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.45",BaseFare:"$3",City:"Jacksonville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.55",PriceByDistance:"$2.20",BaseFare:"$7",City:"Jacksonville",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.21",PriceByDistance:"$1.10",BaseFare:"$1",City:"Inland Empire",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.95",BaseFare:"$3.50",City:"Inland Empire",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$0.95",BaseFare:"$1.25",City:"Indianapolis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$2.25",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.75",BaseFare:"$2.85",City:"Indianapolis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.85",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.40",PriceByDistance:"$2.10",BaseFare:"$3",City:"Indianapolis",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4.05",BaseFare:"$15",City:"Indianapolis",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.05",BaseFare:"$7",City:"Indianapolis",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1.10",BaseFare:"$1",City:"Houston",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.20",BaseFare:"$2.85",City:"Houston",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2.25",BaseFare:"$4",City:"Houston",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.45",PriceByDistance:"$4",BaseFare:"$14",City:"Houston",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.45",BaseFare:"$7",City:"Houston",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.40",BaseFare:"$2.15",City:"Honolulu",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.80",BaseFare:"$3.85",City:"Honolulu",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.50",PriceByDistance:"$3.65",BaseFare:"$7",City:"Honolulu",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Harrisburg",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$1",PriceByDistance:"$3.35",BaseFare:"$10",City:"Hamptons",Cancellation fee:"$15",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$1.15",PriceByDistance:"$5",BaseFare:"$16",City:"Hamptons",Cancellation fee:"$15",Min fare:"$30",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$1.15",PriceByDistance:"$5",BaseFare:"$16",City:"Hamptons",Cancellation fee:"$15",Min fare:"$30",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$1.30",PriceByDistance:"$5.50",BaseFare:"$25",City:"Hamptons",Cancellation fee:"$15",Min fare:"$50",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.17",PriceByDistance:"$0.90",BaseFare:"$1.15",City:"Hampton Roads",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.60",BaseFare:"$3",City:"Hampton Roads",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBlack",PriceByMinute:"$0.95",PriceByDistance:"$1.05",BaseFare:"$6",City:"Halifax",Cancellation fee:"$10",Min fare:"$12",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Gulfport-Biloxi, MS",Cancellation fee:"$5",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$ 2.15",PriceByDistance:"$ 3.95",BaseFare:"$ 8.25",City:"Guadalajara",Cancellation fee:"$ 35",Min fare:"$ 35",DistanceUnit:"kilometer"}
+{Type:"UberBLACK",PriceByMinute:"$ 3",PriceByDistance:"$ 7",BaseFare:"$ 30",City:"Guadalajara",Cancellation fee:"$ 70",Min fare:"$ 70",DistanceUnit:"kilometer"}
+{Type:"UberSUV",PriceByMinute:"$ 3.50",PriceByDistance:"$ 12",BaseFare:"$ 35",City:"Guadalajara",Cancellation fee:"$ 85",Min fare:"$ 85",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.75",BaseFare:"$1.95",City:"Greenville, SC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"UberX",PriceByMinute:"$0.19",PriceByDistance:"$1.52",BaseFare:"$2.76",City:"Greater Maryland",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.60",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.29",PriceByDistance:"$2.47",BaseFare:"$4",City:"Greater Maryland",Cancellation fee:"$5",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"UberBlack",PriceByMinute:"$0.40",PriceByDistance:"$3.25",BaseFare:"$7",City:"Greater Maryland",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$3.65",BaseFare:"$14",City:"Greater Maryland",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.95",BaseFare:"$2.15",City:"Green Bay",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.80",BaseFare:"$1.75",City:"Greater Maine",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$0.75",BaseFare:"$1",City:"Grand Rapids",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.25",BaseFare:"$3",City:"Grand Rapids",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Gainesville",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.17",PriceByDistance:"$0.85",BaseFare:"$1",City:"Fresno",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.60",BaseFare:"$3",City:"Fresno",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.50",BaseFare:"$2",City:"Fort Wayne",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.13",PriceByDistance:"$1.20",BaseFare:"$1.25",City:"Fort Myers-Naples",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$4",City:"Florida Keys",Cancellation fee:"$5",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$0.75",BaseFare:"$1",City:"Flint",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.70",BaseFare:"$2",City:"Flagstaff",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1.20",BaseFare:"$1.50",City:"Fayetteville, Nc",Cancellation fee:"$4",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2.50",City:"Fayetteville, AR",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$2",City:"Fargo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2",City:"Erie",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.40",BaseFare:"$1.50",City:"El Paso",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$0.85",BaseFare:"$2.75",City:"Edmonton",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.75",DistanceUnit:"kilometer"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.55",BaseFare:"$5",City:"Edmonton",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"kilometer"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.20",BaseFare:"$2",City:"Eastern North Carolina",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2.50",City:"Eastern Idaho",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.60",BaseFare:"$1.75",City:"Des Moines",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.65",BaseFare:"$4",City:"Des Moines",Cancellation fee:"$8",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$0.75",BaseFare:"$1",City:"Detroit",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.20",PriceByDistance:"$1.60",BaseFare:"$3",City:"Detroit",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.10",BaseFare:"$4",City:"Detroit",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.45",PriceByDistance:"$4.05",BaseFare:"$14",City:"Detroit",Cancellation fee:"$15",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3",BaseFare:"$7",City:"Detroit",Cancellation fee:"$12",Min fare:"$12",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.10",BaseFare:"$1",City:"Denver",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.85",BaseFare:"$3",City:"Denver",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.25",PriceByDistance:"$2",BaseFare:"$4",City:"Denver",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.40",PriceByDistance:"$3.75",BaseFare:"$14",City:"Denver",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.20",BaseFare:"$7",City:"Denver",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.50",BaseFare:"$2",City:"Delaware",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.40",BaseFare:"$2",City:"Dayton",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1",BaseFare:"$0",City:"Dallas",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$1.60",BaseFare:"$2.85",City:"Dallas",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$4",City:"Dallas",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.45",PriceByDistance:"$4",BaseFare:"$14",City:"Dallas",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.35",PriceByDistance:"$3.45",BaseFare:"$7",City:"Dallas",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.05",BaseFare:"$1",City:"Corpus Christi",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.50",BaseFare:"$2",City:"Connecticut",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.65",PriceByDistance:"$3.75",BaseFare:"$7",City:"Connecticut",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.80",PriceByDistance:"$4.50",BaseFare:"$14",City:"Connecticut",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.10",BaseFare:"$0.50",City:"Columbus",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.23",PriceByDistance:"$1.95",BaseFare:"$3.30",City:"Columbus",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.25",PriceByDistance:"$2",BaseFare:"$4",City:"Columbus",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.30",PriceByDistance:"$2.55",BaseFare:"$7",City:"Columbus",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.75",BaseFare:"$1.95",City:"Columbia, SC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.75",BaseFare:"$3.50",City:"Columbia, SC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.50",PriceByDistance:"$1.80",BaseFare:"$1.75",City:"Columbia, MO",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$1.90",City:"College Station",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.70",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2.50",City:"Coeur D'Alene",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.10",BaseFare:"$1.20",City:"Cleveland",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.85",BaseFare:"$3.20",City:"Cleveland",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.25",BaseFare:"$4",City:"Cleveland",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.50",PriceByDistance:"$2.70",BaseFare:"$7",City:"Cleveland",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.20",BaseFare:"$1.40",City:"Cincinnati",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.15",BaseFare:"$3",City:"Cincinnati",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2",BaseFare:"$4",City:"Cincinnati",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.50",PriceByDistance:"$2.35",BaseFare:"$7",City:"Cincinnati",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.60",BaseFare:"$1.50",City:"Chattanooga",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$0.90",BaseFare:"$1.70",City:"Chicago",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$2.70",CITY OF CHICAGO:"$0.30",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$1.75",BaseFare:"$3",City:"Chicago",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$6",CITY OF CHICAGO:"$0.30",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.50",BaseFare:"$7",City:"Chicago",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.55",PriceByDistance:"$4.05",BaseFare:"$14",City:"Chicago",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"UberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2",BaseFare:"$4",City:"Chicago",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.50",BaseFare:"$2.75",City:"Charlottesville, VA",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1",BaseFare:"$1.10",City:"Charlotte",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.50",BaseFare:"$3",City:"Charlotte",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.30",PriceByDistance:"$3.10",BaseFare:"$7",City:"Charlotte",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Champaign",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.75",BaseFare:"$1.95",City:"Charleston, SC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.75",BaseFare:"$3.50",City:"Charleston, SC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.80",BaseFare:"$2",City:"Central Atlantic Coast, FL",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$2",BaseFare:"$1.75",City:"Cedar Rapids",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$2",BaseFare:"$2.15",City:"Burlington",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$0.95",BaseFare:"$1",City:"Broward and Palm Beach",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.95",BaseFare:"$2",City:"Broward and Palm Beach",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.40",PriceByDistance:"$2.35",BaseFare:"$2.50",City:"Broward and Palm Beach",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$2.50",City:"Boise",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.75",BaseFare:"$4.50",City:"Boise",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.21",PriceByDistance:"$1.20",BaseFare:"$2",City:"Boston",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.45",BaseFare:"$3.50",City:"Boston",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.45",PriceByDistance:"$3.95",BaseFare:"$7",City:"Boston",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4.30",BaseFare:"$14",City:"Boston",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.65",BaseFare:"$2",City:"Bloomington-Normal",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.35",BaseFare:"$1.75",City:"Baton Rouge",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.40",PriceByDistance:"$2.80",BaseFare:"$4",City:"Baton Rouge",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.45",PriceByDistance:"$2.50",BaseFare:"$5",City:"Baton Rouge",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.25",BaseFare:"$1.90",City:"Bakersfield",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.15",PriceByDistance:"$1.05",BaseFare:"$1.25",City:"Baltimore",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.25",PriceByDistance:"$2.25",BaseFare:"$3",City:"Baltimore",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.25",BaseFare:"$7",City:"Baltimore",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$3.65",BaseFare:"$14",City:"Baltimore",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.19",PriceByDistance:"$1.30",BaseFare:"$1",City:"Austin",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$2",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.35",PriceByDistance:"$2.50",BaseFare:"$2.90",City:"Austin",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$3.90",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.50",PriceByDistance:"$3.10",BaseFare:"$3",City:"Austin",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.30",BaseFare:"$1.25",City:"Augusta",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1",BaseFare:"$1.30",City:"Atlanta",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$1.90",BaseFare:"$3",City:"Atlanta",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$8",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.25",BaseFare:"$7",City:"Atlanta",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4",BaseFare:"$14",City:"Atlanta",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2",BaseFare:"$4",City:"Atlanta",Cancellation fee:"$10",Safe Rides Fee:"$1",Min fare:"$10",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.16",PriceByDistance:"$1.22",BaseFare:"$1.30",City:"Athens",Cancellation fee:"$6",Safe Rides Fee:"$1",Min fare:"$6",DistanceUnit:"mile"}
+{Type:"UberBLACK",PriceByMinute:"$0.40",PriceByDistance:"$3.25",BaseFare:"$7",City:"Athens",Cancellation fee:"$10",Min fare:"$15",DistanceUnit:"mile"}
+{Type:"UberSUV",PriceByMinute:"$0.50",PriceByDistance:"$4",BaseFare:"$14",City:"Athens",Cancellation fee:"$10",Min fare:"$25",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.20",PriceByDistance:"$1.85",BaseFare:"$2.20",City:"Asheville, NC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.30",PriceByDistance:"$2.85",BaseFare:"$3.50",City:"Asheville, NC",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.18",PriceByDistance:"$1.30",BaseFare:"$1.30",City:"Ann Arbor",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberXL",PriceByMinute:"$0.20",PriceByDistance:"$2.50",BaseFare:"$3",City:"Ann Arbor",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberSELECT",PriceByMinute:"$0.35",PriceByDistance:"$2.10",BaseFare:"$4",City:"Ann Arbor",Cancellation fee:"$7",Safe Rides Fee:"$1",Min fare:"$7",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.25",PriceByDistance:"$1.75",BaseFare:"$1.90",City:"Amarillo",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5.70",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.17",PriceByDistance:"$1.30",BaseFare:"$1",City:"Albuquerque",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$4",DistanceUnit:"mile"}
+{Type:"uberX",PriceByMinute:"$0.30",PriceByDistance:"$1.40",BaseFare:"$2",City:"Akron",Cancellation fee:"$5",Safe Rides Fee:"$1",Min fare:"$5",DistanceUnit:"mile"}
