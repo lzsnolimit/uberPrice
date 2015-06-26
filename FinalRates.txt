@@ -1,0 +1,610 @@
+Greater Maine
+1.0
+Milwaukee
+1.0
+Turin
+1.1303395
+Western MA
+1.0
+Bali
+7.500469E-5
+Quebec City
+0.8181398
+Bordeaux
+1.1303395
+Penang
+0.26780932
+Kalamazoo
+1.0
+Panama, Panama
+0.4962779
+Cincinnati
+1.0
+Austin
+1.0
+Beirut
+1.0
+Spokane
+1.0
+Tianjin
+0.16108377
+Jaipur
+0.015698599
+Baku
+0.95337975
+Fargo
+1.0
+Guangzhou
+0.16108377
+Ottawa
+0.8181398
+Belo Horizonte
+0.32672796
+Barranquilla
+3.918649E-4
+Durban
+0.08147004
+Greenville, SC
+1.0
+Roanoke-Blacksburg
+1.0
+Providence
+1.0
+Warsaw
+0.27119747
+Seattle
+1.0
+Lisbon
+1.1303395
+Lausanne
+1.0826612
+Nashville
+1.0
+Hyderabad
+0.015698599
+St Louis
+1.0
+Santa Fe
+1.0
+Budapest
+0.0036116075
+Knoxville
+1.0
+Fresno
+1.0
+Mobile, AL
+1.0
+Milan
+1.1303395
+Worcester
+1.586156
+Lancaster, PA
+1.0
+London
+1.586156
+Manhattan
+1.0
+Inland Empire
+1.0
+Little Rock
+1.0
+Sydney
+0.7769
+Qingdao
+0.16108377
+Lille
+1.1303395
+Louisville
+1.0
+Amman
+1.4113331
+Hamburg
+1.1303395
+Greater Maryland
+1.0
+Geneva
+1.0826612
+Newcastle
+1.0
+Broward and Palm Beach
+1.0
+Dubai
+0.27226073
+Mumbai
+0.015698599
+Wilkes-Barre Scranton
+1.0
+Basel
+1.0826612
+Champaign
+1.0
+Salem
+1.0
+Dallas
+1.0
+Rio De Janeiro
+0.32672796
+Helsinki
+1.1303395
+Gothenburg
+0.12265048
+Des Moines
+1.0
+San Luis Obispo
+1.0
+Fayetteville, Nc
+1.0
+Shanghai
+0.16108377
+Chandigarh
+0.015698599
+Lawrence
+1.0
+Lyon
+1.1303395
+Changsha
+0.16108377
+Birmingham
+1.586156
+Foshan
+0.16108377
+Baltimore
+1.0
+Vancouver, Wa
+1.0
+Orlando
+1.0
+Jakarta
+7.500469E-5
+Fukuoka
+0.008121167
+Piedmont Triad, NC
+1.0
+Montreal
+0.8181398
+Mexico City
+0.065187134
+Philadelphia
+1.0
+Akron
+1.0
+Topeka
+1.0
+Charlotte
+1.0
+Detroit
+1.0
+Cape Town
+0.08147004
+Jeddah
+0.26663113
+Johannesburg
+0.08147004
+Marseille
+1.1303395
+Erie
+1.0
+Lagos
+0.0050263884
+Jackson
+1.0
+Springfield, IL
+1.0
+Bakersfield
+1.0
+Zurich
+1.0826612
+Melbourne
+0.7769
+Nairobi
+0.010152182
+Rome
+1.1303395
+Brisbane
+0.7769
+Myrtle Beach
+1.0
+Tokyo
+0.008121167
+Bristol
+1.586156
+Guadalajara
+0.065187134
+Jacksonville
+1.0
+Chattanooga
+1.0
+Oslo
+0.12833099
+Fort Myers-Naples
+1.0
+Sacramento
+1.0
+Baton Rouge
+1.0
+Gulfport-Biloxi, MS
+1.0
+Perth
+0.7769
+Saint Petersburg
+0.018499676
+Kolkata
+0.015698599
+Padua
+1.1303395
+Prague
+0.041522205
+Sheffield
+1.586156
+Pune
+0.015698599
+Fort Wayne
+1.0
+Indianapolis
+1.0
+Richmond
+1.0
+Singapore
+0.7477
+Doha
+0.27472526
+Ekaterinburg
+0.018499676
+Sofia
+0.5779345
+Taipei
+0.032467533
+Outer Banks, NC
+1.0
+Tallinn
+1.1303395
+Manila
+0.022175653
+Kuala Lumpur
+0.26780933
+Mornington Peninsula
+0.7769
+Omaha
+1.0
+Reading, PA
+1.0
+Las Cruces
+1.0
+Rotterdam
+1.1303395
+Amarillo
+1.0
+Minneapolis
+1.0
+Manama
+2.652168
+Honolulu
+1.0
+Chongqing
+0.16108377
+Cedar Rapids
+1.0
+Phoenix
+1.0
+Stillwater
+1.0
+Central Atlantic Coast, FL
+1.0
+New Jersey (Shore)
+1.0
+New Jersey
+1.0
+Miami
+1.0
+San Francisco
+1.0
+Kochi
+0.015698599
+Cairo
+0.13112518
+Tuscaloosa
+1.0
+São Paulo
+0.32672796
+South Bend
+1.0
+Waco
+1.0
+Bucharest
+0.25184792
+Hangzhou
+0.16108377
+Hamptons
+1.0
+Monterrey
+0.065187134
+Copenhagen
+0.15153007
+San Diego
+1.0
+Chennai
+0.015698599
+State College
+1.0
+Savannah-Hilton Head
+1.0
+Raleigh-Durham
+1.0
+Genoa
+1.1303395
+Lincoln
+1.0
+Istanbul
+0.3674647
+Boston
+1.0
+Shenzhen
+0.16108377
+Wellington
+0.69065493
+Kansas City
+1.0
+Athens, GR
+1.1303395
+Munich
+1.1303395
+Leeds
+1.586156
+Athens
+1.1303395
+Hanoi
+4.587156E-5
+Delaware
+1.0
+Bogotá
+0.0003940
+Abu Dhabi
+0.27226073
+Bangkok
+0.029666988
+Beijing
+0.16108377
+Gainesville
+1.0
+Santiago
+0.0015891809
+Sarasota
+1.0
+Connecticut
+1.0
+Rockford
+1.0
+Boise
+1.0
+Columbus
+1.0
+Toronto
+0.8181398
+Ahmedabad
+0.015698599
+Columbia, SC
+1.0
+Portland
+1.0
+Wilmington, Nc
+1.0
+Flint
+1.0
+Hong Kong
+0.128993144
+Grand Rapids
+1.0
+Johor Bahru
+0.26780933
+Adelaide
+0.7769
+Queretaro
+0.065187134
+Moscow
+0.018499676
+Bangalore
+0.015698599
+Tallahassee
+1.0
+Wichita
+1.0
+Amsterdam
+1.1303395
+Seoul
+9.0212404E-4
+Burlington
+1.0
+Cali - Colombia
+3.918649E-4
+Nice
+1.1303395
+New Orleans
+1.0
+Denver
+1.0
+Harrisburg
+1.0
+Salt Lake City
+1.0
+Charleston, SC
+1.0
+Washington D.C.
+1.0
+Lubbock
+1.0
+Corpus Christi
+1.0
+Augusta
+1.0
+San Antonio
+1.0
+NW Indiana
+1.0
+Asheville, NC
+1.0
+Bandung
+7.500469E-5
+Panama City, Fl
+1.0
+Maui
+1.0
+Halifax
+1.0
+Eastern Province, KSA
+0.266656
+Pensacola, FL
+1.0
+Porto
+1.1303395
+Ocala, FL
+1.0
+Toledo
+1.0
+Florida Keys
+1.0
+Oklahoma City
+1.0
+Brasilia
+0.32672796
+Tucson
+1.0
+Albuquerque
+1.0
+Dublin
+1.1303395
+College Station
+1.0
+Lexington
+1.0
+Riyadh
+0.266656
+New York City
+1.0
+Tampa Bay
+1.0
+Memphis
+1.0
+Ventura
+1.0
+Lehigh Valley
+1.0
+Columbia, MO
+1.0
+Pittsburgh
+1.0
+Gold Coast
+0.7769
+Brussels
+1.1303395
+Tel Aviv
+0.2607392
+El Paso
+1.0
+Hampton Roads
+1.0
+Berlin
+1.1303395
+Medellin
+3.918649E-4
+Toulouse
+1.1303395
+Lansing
+1.0
+Ho Chi Minh City
+4.587156E-5
+Stockholm
+0.12265048
+Tulsa
+1.0
+Green Bay
+1.0
+New Delhi
+0.015698599
+Palm Springs
+1.0
+Eastern Idaho
+1.0
+Edmonton
+0.8181398
+Eastern North Carolina
+1.0
+Madison
+1.0
+Frankfurt
+1.1303395
+Fayetteville, AR
+1.0
+Ann Arbor
+1.0
+Auckland
+0.69065493
+Cleveland
+1.0
+Dayton
+1.0
+Modesto
+1.0
+Tacoma
+1.0
+Atlanta
+1.0
+Lima
+0.31600568
+Geelong
+0.7771
+Wuhan
+0.16108377
+Vienna
+1.1303395
+Oxford
+1.586156
+Charlottesville, VA
+1.0
+Dusseldorf
+1.1303395
+Nantes
+1.1303395
+Chicago
+1.0
+Bloomington-Normal
+1.0
+Flagstaff
+1.0
+Santa Barbara
+1.0
+Tijuana
+0.065187134
+Strasbourg
+1.1303395
+Lafayette, LA
+1.0
+Portland, ME
+1.0
+Coeur D'Alene
+1.0
+Orange County
+1.0
+Krakow
+0.27119747
+Chengdu
+0.16108377
+New Hampshire
+1.0
+Manchester
+1.586156
+Los Angeles
+1.0
+Yuma
+1.0
+Paris
+1.1303395
+Houston
+1.0
+Valencia
+1.130974798
+Madrid
+1.130974798
+Barcelona
+1.130974798
+Trójmiasto
+0.26871
